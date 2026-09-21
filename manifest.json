@@ -1,0 +1,12 @@
+{
+  "name": "Andiany Mamikely",
+  "short_name": "Andiany",
+  "description": "Calendrier, discussion et personnalisation partagés pour le groupe",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#1f3325",
+  "theme_color": "#1f3325",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
