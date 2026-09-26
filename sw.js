@@ -6,7 +6,7 @@
 // firebase-config.js). C'est ce qui permettait déjà d'écrire des messages
 // hors connexion tant que l'app était restée ouverte.
 
-const CACHE_NAME = 'andiany-mamikely-v3';
+const CACHE_NAME = 'andiany-mamikely-v4';
 const FILES_TO_CACHE = [
   './',
   './index.html',
